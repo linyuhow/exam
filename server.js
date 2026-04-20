@@ -30,6 +30,8 @@ app.get('/product/:model.html', (req, res) => {
         res.status(200).send(`
             <h1>${product.name}</h1>
             <p>型號: ${product.model}</p>
+            <img src="/img/${product.imageUrl}" style="width: 400px; border-radius: 10px;">
+            <br><br>
             <a href="/">回首頁</a>
         `);
     } else {

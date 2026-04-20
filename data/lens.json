@@ -3,12 +3,12 @@
     {
       "model": "ILCE-6700",
       "name": "Sony Alpha 6700",
-      "imageUrl": "a6700.jpg"
+      "imageUrl": "sony-a6700.jpg" 
     },
     {
       "model": "ILCE-7M5",
       "name": "Sony Alpha 7RV",
-      "imageUrl": "a7m5.jpg"
+      "imageUrl": "sony-a7R-V.jpg"
     }
   ]
 }
